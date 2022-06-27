@@ -1,0 +1,9 @@
+.main{
+    height:350px;
+    width:300px
+}
+.img{
+    height:200px;
+    width:150px;
+    justify-content: center;
+}
